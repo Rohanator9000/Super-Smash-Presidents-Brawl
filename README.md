@@ -1,7 +1,7 @@
 # Super-Smash-Presidents-Brawl
 
 ## Summary
-This game was made at hackBCAIII by Rohan Khajuria ([@Rohanator9000](https://github.com/Rohanator9000)), Shoji Moto ([@PianoBin](https://github.com/PianoBin)), Jenny Huang ([@huangje1](https://github.com/huangje1)), and Brian Lee([@asi14](https://github.com/asi14)). This game is a spinoff of Super Smash Brothers featuring three of the presidential candidates as characters. We spent most of the time trying to figure out how to make games in Unity, so it features three candidates (Sanders, Clinton, and Trump), basic moves, one stage, and pretty much nothing else. We also made a website [here!](huangje1.github.io).
+This game was made at hackBCAIII by Rohan Khajuria ([@Rohanator9000](https://github.com/Rohanator9000)), Shoji Moto ([@PianoBin](https://github.com/PianoBin)), Jenny Huang ([@huangje1](https://github.com/huangje1)), and Brian Lee([@asi14](https://github.com/asi14)). This game is a spinoff of Super Smash Brothers featuring three of the presidential candidates as characters. We spent most of the time trying to figure out how to make games in Unity, so it features three candidates (Sanders, Clinton, and Trump), basic moves, one stage, and pretty much nothing else. We also made a website [here!](https://huangje1.github.io/).
 
 ## Other Mechanics
 
