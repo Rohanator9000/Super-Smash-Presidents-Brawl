@@ -1,0 +1,96 @@
+fileFormatVersion: 2
+guid: ac272d1ee40a13346b4ed4563bcc820c
+timeCreated: 1459696196
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TrumpClassified_0
+    21300002: TrumpClassified_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: TrumpClassified_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 171
+        width: 57
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 59}
+        - {x: -28.5, y: 52}
+        - {x: -28.5, y: -20}
+        - {x: -14.5, y: -59}
+        - {x: 22.5, y: -59}
+        - {x: 28.5, y: -37}
+        - {x: 28.5, y: 58}
+        - {x: 24.5, y: 59}
+    - name: TrumpClassified_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 177
+        width: 144
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 50}
+        - {x: -72, y: 36}
+        - {x: -72, y: -22}
+        - {x: -42, y: -50}
+        - {x: 28, y: -50}
+        - {x: 72, y: -34}
+        - {x: 72, y: 50}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
